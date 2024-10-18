@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+version = "0.0.1"
+id = "vertex_color_map"
+name = "Vertex Color Map"
+tagline = "Tools for manipulating vertex color data"
+maintainer = "maxxnino"
+type = "add-on"
+website = "https://github.com/maxxnino/VertexColorMap"
+tags = ["Mesh"]
+blender_version_min = "4.2.0"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
